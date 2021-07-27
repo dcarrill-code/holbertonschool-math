@@ -1,7 +1,9 @@
 #include "holberton.h"
-
-
-
+/**
+ * display_complex_number - this function prints a complex number
+ * @c: this is the struct of the complex number to show
+ *
+ */
 
 void display_complex_number(complex c)
 {
